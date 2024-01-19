@@ -1,0 +1,15 @@
+C:\Users\Bruger\Documents\ThreadingBasics\ThreadingBasics\bin\Debug\net6.0\ThreadingBasics.exe
+C:\Users\Bruger\Documents\ThreadingBasics\ThreadingBasics\bin\Debug\net6.0\ThreadingBasics.deps.json
+C:\Users\Bruger\Documents\ThreadingBasics\ThreadingBasics\bin\Debug\net6.0\ThreadingBasics.runtimeconfig.json
+C:\Users\Bruger\Documents\ThreadingBasics\ThreadingBasics\bin\Debug\net6.0\ThreadingBasics.dll
+C:\Users\Bruger\Documents\ThreadingBasics\ThreadingBasics\bin\Debug\net6.0\ThreadingBasics.pdb
+C:\Users\Bruger\Documents\ThreadingBasics\ThreadingBasics\obj\Debug\net6.0\ThreadingBasics.csproj.AssemblyReference.cache
+C:\Users\Bruger\Documents\ThreadingBasics\ThreadingBasics\obj\Debug\net6.0\ThreadingBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Documents\ThreadingBasics\ThreadingBasics\obj\Debug\net6.0\ThreadingBasics.AssemblyInfoInputs.cache
+C:\Users\Bruger\Documents\ThreadingBasics\ThreadingBasics\obj\Debug\net6.0\ThreadingBasics.AssemblyInfo.cs
+C:\Users\Bruger\Documents\ThreadingBasics\ThreadingBasics\obj\Debug\net6.0\ThreadingBasics.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\ThreadingBasics\ThreadingBasics\obj\Debug\net6.0\ThreadingBasics.dll
+C:\Users\Bruger\Documents\ThreadingBasics\ThreadingBasics\obj\Debug\net6.0\refint\ThreadingBasics.dll
+C:\Users\Bruger\Documents\ThreadingBasics\ThreadingBasics\obj\Debug\net6.0\ThreadingBasics.pdb
+C:\Users\Bruger\Documents\ThreadingBasics\ThreadingBasics\obj\Debug\net6.0\ThreadingBasics.genruntimeconfig.cache
+C:\Users\Bruger\Documents\ThreadingBasics\ThreadingBasics\obj\Debug\net6.0\ref\ThreadingBasics.dll

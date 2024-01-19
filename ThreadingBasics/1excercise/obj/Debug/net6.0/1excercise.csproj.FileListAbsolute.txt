@@ -1,0 +1,15 @@
+C:\Users\Bruger\Documents\ThreadingBasics\1excercise\bin\Debug\net6.0\1excercise.exe
+C:\Users\Bruger\Documents\ThreadingBasics\1excercise\bin\Debug\net6.0\1excercise.deps.json
+C:\Users\Bruger\Documents\ThreadingBasics\1excercise\bin\Debug\net6.0\1excercise.runtimeconfig.json
+C:\Users\Bruger\Documents\ThreadingBasics\1excercise\bin\Debug\net6.0\1excercise.dll
+C:\Users\Bruger\Documents\ThreadingBasics\1excercise\bin\Debug\net6.0\1excercise.pdb
+C:\Users\Bruger\Documents\ThreadingBasics\1excercise\obj\Debug\net6.0\1excercise.csproj.AssemblyReference.cache
+C:\Users\Bruger\Documents\ThreadingBasics\1excercise\obj\Debug\net6.0\1excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Documents\ThreadingBasics\1excercise\obj\Debug\net6.0\1excercise.AssemblyInfoInputs.cache
+C:\Users\Bruger\Documents\ThreadingBasics\1excercise\obj\Debug\net6.0\1excercise.AssemblyInfo.cs
+C:\Users\Bruger\Documents\ThreadingBasics\1excercise\obj\Debug\net6.0\1excercise.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\ThreadingBasics\1excercise\obj\Debug\net6.0\1excercise.dll
+C:\Users\Bruger\Documents\ThreadingBasics\1excercise\obj\Debug\net6.0\refint\1excercise.dll
+C:\Users\Bruger\Documents\ThreadingBasics\1excercise\obj\Debug\net6.0\1excercise.pdb
+C:\Users\Bruger\Documents\ThreadingBasics\1excercise\obj\Debug\net6.0\1excercise.genruntimeconfig.cache
+C:\Users\Bruger\Documents\ThreadingBasics\1excercise\obj\Debug\net6.0\ref\1excercise.dll
