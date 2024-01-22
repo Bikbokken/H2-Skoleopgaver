@@ -1,0 +1,15 @@
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadPool\ThreadPool\bin\Debug\net6.0\ThreadPool.exe
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadPool\ThreadPool\bin\Debug\net6.0\ThreadPool.deps.json
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadPool\ThreadPool\bin\Debug\net6.0\ThreadPool.runtimeconfig.json
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadPool\ThreadPool\bin\Debug\net6.0\ThreadPool.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadPool\ThreadPool\bin\Debug\net6.0\ThreadPool.pdb
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadPool\ThreadPool\obj\Debug\net6.0\ThreadPool.csproj.AssemblyReference.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadPool\ThreadPool\obj\Debug\net6.0\ThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadPool\ThreadPool\obj\Debug\net6.0\ThreadPool.AssemblyInfoInputs.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadPool\ThreadPool\obj\Debug\net6.0\ThreadPool.AssemblyInfo.cs
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadPool\ThreadPool\obj\Debug\net6.0\ThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadPool\ThreadPool\obj\Debug\net6.0\ThreadPool.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadPool\ThreadPool\obj\Debug\net6.0\refint\ThreadPool.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadPool\ThreadPool\obj\Debug\net6.0\ThreadPool.pdb
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadPool\ThreadPool\obj\Debug\net6.0\ThreadPool.genruntimeconfig.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadPool\ThreadPool\obj\Debug\net6.0\ref\ThreadPool.dll

@@ -1,0 +1,15 @@
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadSync\ThreadSync\bin\Debug\net6.0\ThreadSync.exe
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadSync\ThreadSync\bin\Debug\net6.0\ThreadSync.deps.json
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadSync\ThreadSync\bin\Debug\net6.0\ThreadSync.runtimeconfig.json
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadSync\ThreadSync\bin\Debug\net6.0\ThreadSync.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadSync\ThreadSync\bin\Debug\net6.0\ThreadSync.pdb
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadSync\ThreadSync\obj\Debug\net6.0\ThreadSync.csproj.AssemblyReference.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadSync\ThreadSync\obj\Debug\net6.0\ThreadSync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadSync\ThreadSync\obj\Debug\net6.0\ThreadSync.AssemblyInfoInputs.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadSync\ThreadSync\obj\Debug\net6.0\ThreadSync.AssemblyInfo.cs
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadSync\ThreadSync\obj\Debug\net6.0\ThreadSync.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadSync\ThreadSync\obj\Debug\net6.0\ThreadSync.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadSync\ThreadSync\obj\Debug\net6.0\refint\ThreadSync.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadSync\ThreadSync\obj\Debug\net6.0\ThreadSync.pdb
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadSync\ThreadSync\obj\Debug\net6.0\ThreadSync.genruntimeconfig.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ThreadSync\ThreadSync\obj\Debug\net6.0\ref\ThreadSync.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bruger\\Documents\\ThreadingBasics\\ThreadingBasics\\ThreadingBasics.csproj": {}
+    "C:\\Users\\Bruger\\Documents\\H2-Skoleopgaver\\ThreadingBasics\\ThreadingBasics\\ThreadingBasics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bruger\\Documents\\ThreadingBasics\\ThreadingBasics\\ThreadingBasics.csproj": {
+    "C:\\Users\\Bruger\\Documents\\H2-Skoleopgaver\\ThreadingBasics\\ThreadingBasics\\ThreadingBasics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruger\\Documents\\ThreadingBasics\\ThreadingBasics\\ThreadingBasics.csproj",
+        "projectUniqueName": "C:\\Users\\Bruger\\Documents\\H2-Skoleopgaver\\ThreadingBasics\\ThreadingBasics\\ThreadingBasics.csproj",
         "projectName": "ThreadingBasics",
-        "projectPath": "C:\\Users\\Bruger\\Documents\\ThreadingBasics\\ThreadingBasics\\ThreadingBasics.csproj",
+        "projectPath": "C:\\Users\\Bruger\\Documents\\H2-Skoleopgaver\\ThreadingBasics\\ThreadingBasics\\ThreadingBasics.csproj",
         "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruger\\Documents\\ThreadingBasics\\ThreadingBasics\\obj\\",
+        "outputPath": "C:\\Users\\Bruger\\Documents\\H2-Skoleopgaver\\ThreadingBasics\\ThreadingBasics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

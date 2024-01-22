@@ -1,0 +1,15 @@
+C:\Users\Bruger\Documents\H2-Skoleopgaver\diningphilsophers\diningphilsophers\bin\Debug\net6.0\diningphilsophers.exe
+C:\Users\Bruger\Documents\H2-Skoleopgaver\diningphilsophers\diningphilsophers\bin\Debug\net6.0\diningphilsophers.deps.json
+C:\Users\Bruger\Documents\H2-Skoleopgaver\diningphilsophers\diningphilsophers\bin\Debug\net6.0\diningphilsophers.runtimeconfig.json
+C:\Users\Bruger\Documents\H2-Skoleopgaver\diningphilsophers\diningphilsophers\bin\Debug\net6.0\diningphilsophers.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\diningphilsophers\diningphilsophers\bin\Debug\net6.0\diningphilsophers.pdb
+C:\Users\Bruger\Documents\H2-Skoleopgaver\diningphilsophers\diningphilsophers\obj\Debug\net6.0\diningphilsophers.csproj.AssemblyReference.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\diningphilsophers\diningphilsophers\obj\Debug\net6.0\diningphilsophers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Documents\H2-Skoleopgaver\diningphilsophers\diningphilsophers\obj\Debug\net6.0\diningphilsophers.AssemblyInfoInputs.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\diningphilsophers\diningphilsophers\obj\Debug\net6.0\diningphilsophers.AssemblyInfo.cs
+C:\Users\Bruger\Documents\H2-Skoleopgaver\diningphilsophers\diningphilsophers\obj\Debug\net6.0\diningphilsophers.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\diningphilsophers\diningphilsophers\obj\Debug\net6.0\diningphilsophers.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\diningphilsophers\diningphilsophers\obj\Debug\net6.0\refint\diningphilsophers.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\diningphilsophers\diningphilsophers\obj\Debug\net6.0\diningphilsophers.pdb
+C:\Users\Bruger\Documents\H2-Skoleopgaver\diningphilsophers\diningphilsophers\obj\Debug\net6.0\diningphilsophers.genruntimeconfig.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\diningphilsophers\diningphilsophers\obj\Debug\net6.0\ref\diningphilsophers.dll

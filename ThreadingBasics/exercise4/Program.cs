@@ -42,9 +42,5 @@ class Program
 
         Thread printer = new Thread(new ThreadStart(keyboard.PrintKey));
         printer.Start();    
-
-        
-
-
     }
 }
