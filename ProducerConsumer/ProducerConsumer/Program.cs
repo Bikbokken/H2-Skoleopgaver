@@ -36,12 +36,9 @@ public class Manager
             {
                 if (_products.Count < 10)
                 {
-                    for (int i = 0; i < random.Next(1,5); i++)
-                    {
-                        _products.Enqueue(new Product());
-                        Console.WriteLine("Producer produced one more product - Total items: {0}", _products.Count);
-                        Monitor.PulseAll(_products);
-                    }
+                    _products.Enqueue(new Product());
+                    Console.WriteLine("Producer produced one more product - Total items: {0}", _products.Count);
+                    Monitor.PulseAll(_products);
                 }
                 
             }

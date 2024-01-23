@@ -1,0 +1,15 @@
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Flaskeautomat\Flaskeautomat\bin\Debug\net6.0\Flaskeautomat.exe
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Flaskeautomat\Flaskeautomat\bin\Debug\net6.0\Flaskeautomat.deps.json
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Flaskeautomat\Flaskeautomat\bin\Debug\net6.0\Flaskeautomat.runtimeconfig.json
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Flaskeautomat\Flaskeautomat\bin\Debug\net6.0\Flaskeautomat.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Flaskeautomat\Flaskeautomat\bin\Debug\net6.0\Flaskeautomat.pdb
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Flaskeautomat\Flaskeautomat\obj\Debug\net6.0\Flaskeautomat.csproj.AssemblyReference.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Flaskeautomat\Flaskeautomat\obj\Debug\net6.0\Flaskeautomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Flaskeautomat\Flaskeautomat\obj\Debug\net6.0\Flaskeautomat.AssemblyInfoInputs.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Flaskeautomat\Flaskeautomat\obj\Debug\net6.0\Flaskeautomat.AssemblyInfo.cs
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Flaskeautomat\Flaskeautomat\obj\Debug\net6.0\Flaskeautomat.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Flaskeautomat\Flaskeautomat\obj\Debug\net6.0\Flaskeautomat.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Flaskeautomat\Flaskeautomat\obj\Debug\net6.0\refint\Flaskeautomat.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Flaskeautomat\Flaskeautomat\obj\Debug\net6.0\Flaskeautomat.pdb
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Flaskeautomat\Flaskeautomat\obj\Debug\net6.0\Flaskeautomat.genruntimeconfig.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Flaskeautomat\Flaskeautomat\obj\Debug\net6.0\ref\Flaskeautomat.dll
