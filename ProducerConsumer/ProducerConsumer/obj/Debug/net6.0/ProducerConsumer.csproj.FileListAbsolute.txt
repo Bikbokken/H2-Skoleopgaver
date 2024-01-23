@@ -1,0 +1,15 @@
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ProducerConsumer\ProducerConsumer\bin\Debug\net6.0\ProducerConsumer.exe
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ProducerConsumer\ProducerConsumer\bin\Debug\net6.0\ProducerConsumer.deps.json
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ProducerConsumer\ProducerConsumer\bin\Debug\net6.0\ProducerConsumer.runtimeconfig.json
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ProducerConsumer\ProducerConsumer\bin\Debug\net6.0\ProducerConsumer.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ProducerConsumer\ProducerConsumer\bin\Debug\net6.0\ProducerConsumer.pdb
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ProducerConsumer\ProducerConsumer\obj\Debug\net6.0\ProducerConsumer.csproj.AssemblyReference.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ProducerConsumer\ProducerConsumer\obj\Debug\net6.0\ProducerConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ProducerConsumer\ProducerConsumer\obj\Debug\net6.0\ProducerConsumer.AssemblyInfoInputs.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ProducerConsumer\ProducerConsumer\obj\Debug\net6.0\ProducerConsumer.AssemblyInfo.cs
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ProducerConsumer\ProducerConsumer\obj\Debug\net6.0\ProducerConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ProducerConsumer\ProducerConsumer\obj\Debug\net6.0\ProducerConsumer.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ProducerConsumer\ProducerConsumer\obj\Debug\net6.0\refint\ProducerConsumer.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ProducerConsumer\ProducerConsumer\obj\Debug\net6.0\ProducerConsumer.pdb
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ProducerConsumer\ProducerConsumer\obj\Debug\net6.0\ProducerConsumer.genruntimeconfig.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\ProducerConsumer\ProducerConsumer\obj\Debug\net6.0\ref\ProducerConsumer.dll

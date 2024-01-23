@@ -122,6 +122,7 @@ public class Program
     {
 
         // Create forks
+        
         Fork fork1 = new Fork("Fork - 1");
         Fork fork2 = new Fork("Fork - 2");
         Fork fork3 = new Fork("Fork - 3");
@@ -132,6 +133,7 @@ public class Program
         Philsopher philsopher2 = new Philsopher("Philsopher - Tobias", fork1, fork2);
         Philsopher philsopher3 = new Philsopher("Philsopher - Rasmus", fork3, fork2);
 
+        // Start Philsphers 
 
         philsopher1.Start();
         philsopher2.Start();
