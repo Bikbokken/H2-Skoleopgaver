@@ -12,7 +12,7 @@ namespace Flaskeautomat
         private GuiService _guiService { get; set; }
 
 
-        private int _wait = 1000;
+        private int _wait = 500;
 
         static int producedCans = 0;
 
@@ -21,6 +21,8 @@ namespace Flaskeautomat
             Thread produceUnsortedCans = new Thread(ProduceContainers);
             produceUnsortedCans.Name = "Produce Unsorted Cans";
             produceUnsortedCans.Start();
+
+            
         }
 
 
@@ -46,6 +48,7 @@ namespace Flaskeautomat
                 lock (unSortedContainers)
                 {
                     unSortedContainers.Enqueue(newContainer);
+                    Monitor.Pulse(unSortedContainers);
                 }
 
                 Thread.Sleep(_wait);

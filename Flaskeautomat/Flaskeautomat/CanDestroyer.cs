@@ -33,11 +33,14 @@ namespace Flaskeautomat
             {
                 lock (sortedBottles)
                 {
-                    while(sortedBottles.Count > 0)
+                    while (sortedBottles.Count < 10)
                     {
-                        Container container = sortedBottles.Dequeue();
-                        _guiService.RemoveCan(container);
+                        Monitor.Wait(sortedBottles);
                     }
+                    Container container = sortedBottles.Dequeue();
+                    _guiService.RemoveCan(container);
+
+                    Monitor.Pulse(sortedBottles);
                 }
 
             }
@@ -49,11 +52,14 @@ namespace Flaskeautomat
             {
                 lock (sortedCans)
                 {
-                    while (sortedCans.Count > 0)
+                    while (sortedCans.Count < 10)
                     {
-                        Container container = sortedCans.Dequeue();
-                        _guiService.RemoveCan(container);
+                        Monitor.Wait(sortedCans);
                     }
+
+                    Container container = sortedCans.Dequeue();
+                    _guiService.RemoveCan(container);
+                    Monitor.Pulse(sortedCans);
                 }
 
             }

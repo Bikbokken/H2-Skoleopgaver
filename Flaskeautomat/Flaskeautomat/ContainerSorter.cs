@@ -29,27 +29,32 @@ namespace Flaskeautomat
             {
                 lock(unSortedContainers)
                 {
-                    while (unSortedContainers.Count > 0)
+                    while(unSortedContainers.Count < 10)
                     {
-                        Container container = unSortedContainers.Dequeue();
+                        Monitor.Wait(unSortedContainers);
+                    }
 
-                        if (container.GetType() == typeof(Can))
+                    Container container = unSortedContainers.Dequeue();
+
+                    if (container.GetType() == typeof(Can))
+                    {
+                        lock (sortedCans)
                         {
-                            lock (sortedCans)
-                            {
-                                _guiService.PrintSortedCan(container);
-                                sortedCans.Enqueue((Can)container);
-                            }
-                        }
-                        else if (container.GetType() == typeof(Bottle))
-                        {
-                            lock (sortedBottle)
-                            {
-                                _guiService.PrintSortedCan(container);
-                                sortedBottle.Enqueue((Bottle)container);
-                            }
+                            _guiService.PrintSortedCan(container);
+                            sortedCans.Enqueue((Can)container);
+                            Monitor.Pulse(sortedCans);
                         }
                     }
+                    else if (container.GetType() == typeof(Bottle))
+                    {
+                        lock (sortedBottle)
+                        {
+                            _guiService.PrintSortedCan(container);
+                            sortedBottle.Enqueue((Bottle)container);
+                            Monitor.Pulse(sortedBottle);
+                        }
+                    }
+                    Monitor.Pulse(unSortedContainers);
                 }
             }
 
