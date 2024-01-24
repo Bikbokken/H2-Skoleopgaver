@@ -12,7 +12,7 @@ namespace Flaskeautomat
         private GuiService _guiService { get; set; }
 
 
-        private int _wait = 500;
+        private readonly int _wait = 500;
 
         static int producedCans = 0;
 

@@ -1,0 +1,15 @@
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Doesitwork\Doesitwork\bin\Debug\net6.0\Doesitwork.exe
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Doesitwork\Doesitwork\bin\Debug\net6.0\Doesitwork.deps.json
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Doesitwork\Doesitwork\bin\Debug\net6.0\Doesitwork.runtimeconfig.json
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Doesitwork\Doesitwork\bin\Debug\net6.0\Doesitwork.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Doesitwork\Doesitwork\bin\Debug\net6.0\Doesitwork.pdb
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Doesitwork\Doesitwork\obj\Debug\net6.0\Doesitwork.csproj.AssemblyReference.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Doesitwork\Doesitwork\obj\Debug\net6.0\Doesitwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Doesitwork\Doesitwork\obj\Debug\net6.0\Doesitwork.AssemblyInfoInputs.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Doesitwork\Doesitwork\obj\Debug\net6.0\Doesitwork.AssemblyInfo.cs
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Doesitwork\Doesitwork\obj\Debug\net6.0\Doesitwork.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Doesitwork\Doesitwork\obj\Debug\net6.0\Doesitwork.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Doesitwork\Doesitwork\obj\Debug\net6.0\refint\Doesitwork.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Doesitwork\Doesitwork\obj\Debug\net6.0\Doesitwork.pdb
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Doesitwork\Doesitwork\obj\Debug\net6.0\Doesitwork.genruntimeconfig.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Doesitwork\Doesitwork\obj\Debug\net6.0\ref\Doesitwork.dll
