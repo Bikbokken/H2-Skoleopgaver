@@ -4,31 +4,41 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BaggageSystem
+namespace Bagsystem
 {
     internal class Counter
     {
-        private Queue<Baggage> baggages { get; set; }   
+        private Queue<Baggage> Bags { get; set; }
+        public int Id { get; set; }
+        private GuiService GuiService { get;set; }
 
 
-        public void StartCounter()
+        public void Start()
         {
-            
+            Thread produceBagThread = new Thread(() => ProduceBags());
+            produceBagThread.Name = "Produce Bag - Gate Id: " + Id;
+            produceBagThread.Start();
         }
 
-        private void ProduceBags(int terminal)
+        private void ProduceBags()
         {
             while (true)
             {
-                lock(baggages)
+                lock(Bags)
                 {
-                    baggages.Enqueue(new Baggage(new Random().Next(0,100000000), terminal));
+                    int id = new Random().Next(0, 100000000);
+                    Bags.Enqueue(new Baggage(id, Id));
+                    GuiService.BlueMessage($"Created new baggage: {id} - Gate: {Id}");
+                    Monitor.Pulse(Bags);
                 }
+                Thread.Sleep(100);
             }
         }
 
-        public Counter(Queue<Baggage> bags) {
-            baggages = bags;
+        public Counter(int _id, Queue<Baggage> bags, GuiService guiService) {
+            GuiService = guiService;
+            Bags = bags;
+            Id = _id;
         }
     }
 }
