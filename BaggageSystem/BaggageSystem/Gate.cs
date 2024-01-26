@@ -39,18 +39,19 @@ namespace Bagsystem
         {
             while (true)
             {
-                lock(Bags)
+                int mswait = new Random().Next(20000, 50000);
+                lock (Bags)
                 {
                     while(Bags.Count < 0)
                     {
                         Monitor.Wait(Bags);
                     }
                     DateTime now = DateTime.Now;
-                    GuiService.GreenMessage($"Bags flying away: {Bags.Count} - Next flight: {now.AddSeconds(30)}");
+                    GuiService.GreenMessage($"Bags flying away: {Bags.Count} - Next flight: {now.AddMilliseconds(mswait)}");
                     Bags.Clear();
                     Monitor.Pulse(Bags);
                 }
-                Thread.Sleep(30000);
+                Thread.Sleep(mswait);
             }
         }
 

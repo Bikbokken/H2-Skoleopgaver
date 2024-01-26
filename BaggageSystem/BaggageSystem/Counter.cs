@@ -26,12 +26,16 @@ namespace Bagsystem
             {
                 lock(Bags)
                 {
-                    int id = new Random().Next(0, 100000000);
-                    Bags.Enqueue(new Baggage(id, Id));
-                    GuiService.BlueMessage($"Created new baggage: {id} - Gate: {Id}");
-                    Monitor.Pulse(Bags);
+                    for(int i = 0; i < new Random().Next(1,4); i++)
+                    {
+                        int id = new Random().Next(0, 100000000);
+                        Bags.Enqueue(new Baggage(id, Id));
+                        GuiService.BlueMessage($"Created new baggage: {id} - Gate: {Id}");
+                        Monitor.Pulse(Bags);
+                    }
+                   
                 }
-                Thread.Sleep(100);
+                Thread.Sleep(500);
             }
         }
 
