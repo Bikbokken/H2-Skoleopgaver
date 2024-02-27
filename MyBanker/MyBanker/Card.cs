@@ -6,19 +6,61 @@ using System.Threading.Tasks;
 
 namespace MyBanker
 {
-    public class Card
+    class CardFunctions
+    {
+        public static string GenerateCardAccount()
+        {
+            Random random = new Random();
+
+            StringBuilder builder = new StringBuilder();
+
+            for (int i = 0; i < 14; i++)
+            {
+                builder.Append("3520").Append(random.Next(100000, 1000000));
+
+                builder.AppendLine();
+            }
+
+            return builder.ToString();
+        }
+    }
+   
+
+    public abstract class Card
     {
         private string _cardNumber;
         private string _cardName;
         private string _cardAccount;
+        private int _ageRequirement;
         
-        public Card(string cardNumber, string cardName, string cardAccount)
+        public Card(string cardNumber, string cardName, int ageRequirement)
         {
             _cardNumber = cardNumber;
             _cardName = cardName;
-            _cardAccount = cardAccount;
+            _cardAccount = CardFunctions.GenerateCardAccount();
+            _ageRequirement = ageRequirement;
         }
 
+            
+
     }
+
+    public class DebetCard : Card {
+
+        private static int _ageRequirement = 0;
+
+        public DebetCard(string cardNumber, string cardName) : base(cardNumber, cardName, _ageRequirement)
+        {
+        }
+    }
+
+    public class Maestro : DebetCard
+    {
+        public Maestro(string cardNumber, string cardName) : base(cardNumber, cardName)
+        {
+        }
+    }
+
+
 
 }
