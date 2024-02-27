@@ -1,0 +1,5 @@
+C:\Users\Bruger\Documents\H2-Skoleopgaver\SOLIDForklaring\SOLIDForklaring\obj\Debug\net6.0\SOLIDForklaring.csproj.AssemblyReference.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\SOLIDForklaring\SOLIDForklaring\obj\Debug\net6.0\SOLIDForklaring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Documents\H2-Skoleopgaver\SOLIDForklaring\SOLIDForklaring\obj\Debug\net6.0\SOLIDForklaring.AssemblyInfoInputs.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\SOLIDForklaring\SOLIDForklaring\obj\Debug\net6.0\SOLIDForklaring.AssemblyInfo.cs
+C:\Users\Bruger\Documents\H2-Skoleopgaver\SOLIDForklaring\SOLIDForklaring\obj\Debug\net6.0\SOLIDForklaring.csproj.CoreCompileInputs.cache
