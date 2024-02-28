@@ -78,16 +78,6 @@ public class Message
     public string Subject { get => subject; set => subject = value; }
     public string Cc { get => cc; set => cc = value; }
 
-    public string GetBody()
-    {
-        return body;
-    }
-
-    public string GetRecipients()
-    {
-        return to;
-    }
-
 
 }
 
