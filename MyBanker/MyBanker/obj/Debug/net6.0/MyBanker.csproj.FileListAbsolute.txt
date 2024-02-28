@@ -1,0 +1,15 @@
+C:\Users\Bruger\Documents\H2-Skoleopgaver\MyBanker\MyBanker\bin\Debug\net6.0\MyBanker.exe
+C:\Users\Bruger\Documents\H2-Skoleopgaver\MyBanker\MyBanker\bin\Debug\net6.0\MyBanker.deps.json
+C:\Users\Bruger\Documents\H2-Skoleopgaver\MyBanker\MyBanker\bin\Debug\net6.0\MyBanker.runtimeconfig.json
+C:\Users\Bruger\Documents\H2-Skoleopgaver\MyBanker\MyBanker\bin\Debug\net6.0\MyBanker.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\MyBanker\MyBanker\bin\Debug\net6.0\MyBanker.pdb
+C:\Users\Bruger\Documents\H2-Skoleopgaver\MyBanker\MyBanker\obj\Debug\net6.0\MyBanker.csproj.AssemblyReference.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\MyBanker\MyBanker\obj\Debug\net6.0\MyBanker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Documents\H2-Skoleopgaver\MyBanker\MyBanker\obj\Debug\net6.0\MyBanker.AssemblyInfoInputs.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\MyBanker\MyBanker\obj\Debug\net6.0\MyBanker.AssemblyInfo.cs
+C:\Users\Bruger\Documents\H2-Skoleopgaver\MyBanker\MyBanker\obj\Debug\net6.0\MyBanker.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\MyBanker\MyBanker\obj\Debug\net6.0\MyBanker.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\MyBanker\MyBanker\obj\Debug\net6.0\refint\MyBanker.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\MyBanker\MyBanker\obj\Debug\net6.0\MyBanker.pdb
+C:\Users\Bruger\Documents\H2-Skoleopgaver\MyBanker\MyBanker\obj\Debug\net6.0\MyBanker.genruntimeconfig.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\MyBanker\MyBanker\obj\Debug\net6.0\ref\MyBanker.dll

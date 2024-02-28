@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using MyBanker;
+
+Mastercard mastercard = new Mastercard("Benjamin");
+Console.WriteLine(mastercard.ToString());

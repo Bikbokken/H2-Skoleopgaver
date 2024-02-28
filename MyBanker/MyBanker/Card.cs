@@ -4,20 +4,19 @@ namespace MyBanker
 {
     class CardFunctions
     {
-        public static string GenerateCardAccount()
+        public static string GenerateCardAccount(int count)
         {
             Random random = new Random();
+            int[] randomNumbers = new int[count];
 
-            StringBuilder builder = new StringBuilder();
-
-            for (int i = 0; i < 14; i++)
+            for (int i = 0; i < count; i++)
             {
-                builder.Append("3520").Append(random.Next(100000, 1000000));
-
-                builder.AppendLine();
+                randomNumbers[i] = random.Next();
             }
 
-            return builder.ToString();
+            string randomNumbersString = string.Join(", ", randomNumbers);
+
+            return randomNumbersString;
         }
         public static string GenerateCardNumber(CardType type)
         {
@@ -91,7 +90,7 @@ namespace MyBanker
         {
             CardNumber = cardNumber;
             CardName = cardName;
-            CardAccount = CardFunctions.GenerateCardAccount();
+            CardAccount = CardFunctions.GenerateCardAccount(14);
             AgeRequirement = ageRequirement;
             RegNumber = "3520";
             ExpiryDate = expiryDate;
