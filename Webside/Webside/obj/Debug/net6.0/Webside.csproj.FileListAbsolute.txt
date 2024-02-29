@@ -1,0 +1,15 @@
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Webside\Webside\bin\Debug\net6.0\Webside.exe
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Webside\Webside\bin\Debug\net6.0\Webside.deps.json
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Webside\Webside\bin\Debug\net6.0\Webside.runtimeconfig.json
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Webside\Webside\bin\Debug\net6.0\Webside.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Webside\Webside\bin\Debug\net6.0\Webside.pdb
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Webside\Webside\obj\Debug\net6.0\Webside.csproj.AssemblyReference.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Webside\Webside\obj\Debug\net6.0\Webside.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Webside\Webside\obj\Debug\net6.0\Webside.AssemblyInfoInputs.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Webside\Webside\obj\Debug\net6.0\Webside.AssemblyInfo.cs
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Webside\Webside\obj\Debug\net6.0\Webside.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Webside\Webside\obj\Debug\net6.0\Webside.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Webside\Webside\obj\Debug\net6.0\refint\Webside.dll
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Webside\Webside\obj\Debug\net6.0\Webside.pdb
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Webside\Webside\obj\Debug\net6.0\Webside.genruntimeconfig.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\Webside\Webside\obj\Debug\net6.0\ref\Webside.dll
