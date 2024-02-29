@@ -6,20 +6,26 @@ public abstract class Bird : IBird
     public abstract void Draw();
 }
 
-public interface FlyingBird
+public interface IFlyingBird
 {
-     public abstract void SetAltitude(double altitude);
+     void SetAltitude(double altitude);
 }
 
 
 
 public interface IBird
 {
-    public abstract void Draw();
-    public abstract void SetLocation(double longitude, double latitude);
+    void Draw();
+    void SetLocation(double longitude, double latitude);
 }
 
-public class Duck : Bird, IBird, FlyingBird
+public abstract class FlyingBird : Bird
+{
+    public abstract void SetAltitude(double altitude);
+
+}
+
+public class Duck : FlyingBird, IBird, IFlyingBird
 {
     public override void SetLocation(double longitude, double latitude)
     {
@@ -29,7 +35,7 @@ public class Duck : Bird, IBird, FlyingBird
     {
         //Tegn fuglen på skærmen
     }
-    public void SetAltitude(double altitude)
+    public override void SetAltitude(double altitude)
     {
         // Alltitude
     }
