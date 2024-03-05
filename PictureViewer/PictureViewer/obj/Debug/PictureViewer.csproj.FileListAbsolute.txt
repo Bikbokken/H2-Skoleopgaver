@@ -1,0 +1,10 @@
+C:\Users\Bruger\Documents\H2-Skoleopgaver\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\Bruger\Documents\H2-Skoleopgaver\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\Bruger\Documents\H2-Skoleopgaver\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\Bruger\Documents\H2-Skoleopgaver\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\Bruger\Documents\H2-Skoleopgaver\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\Bruger\Documents\H2-Skoleopgaver\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\H2-Skoleopgaver\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\Bruger\Documents\H2-Skoleopgaver\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
