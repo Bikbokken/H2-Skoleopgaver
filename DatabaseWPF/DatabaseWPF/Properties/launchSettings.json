@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DatabaseWPF": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Bruger\\Documents\\H2-Skoleopgaver\\DatabaseWPF\\DatabaseWPF"
+    }
+  }
+}
