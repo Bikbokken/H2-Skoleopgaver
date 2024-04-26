@@ -39,8 +39,8 @@ CREATE TABLE Book (
     Description VARCHAR(100),
     AuthorID INT,
     GenreID INT,
-    FOREIGN KEY (AuthorID) REFERENCES Author(AuthorID),
-    FOREIGN KEY (GenreID) REFERENCES Genre(GenreID)
+    CONSTRAINT FK_AuthorBook FOREIGN KEY (AuthorID) REFERENCES Author(AuthorID),
+    CONSTRAINT FK_GenreBook FOREIGN KEY (GenreID) REFERENCES Genre(GenreID)
 );
 
 CREATE TABLE Customer (
@@ -51,7 +51,7 @@ CREATE TABLE Customer (
     PasswordHash NVARCHAR(200),
     PhoneNumber VARCHAR(50),
     ZipCodeID VARCHAR(4),
-    FOREIGN KEY (ZipCodeID) REFERENCES ZipCode(ZipCode)
+    CONSTRAINT FK_ZipCodeCustomer FOREIGN KEY (ZipCodeID) REFERENCES ZipCode(ZipCode)
 );
 
 CREATE TABLE Orders (
@@ -59,7 +59,7 @@ CREATE TABLE Orders (
     OrderDate DATETIME,
     TotalPrice DECIMAL(10, 2),
     CustomerID INT,
-    FOREIGN KEY (CustomerID) REFERENCES Customer(CustomerID)
+    CONSTRAINT FK_CustomerORders FOREIGN KEY (CustomerID) REFERENCES Customer(CustomerID)
 );
 
 CREATE TABLE OrderItem (
@@ -67,7 +67,7 @@ CREATE TABLE OrderItem (
     Quantity INT NOT NULL,
     TotalPrice DECIMAL(10, 2) NOT NULL,
     OrderID INT,
-    FOREIGN KEY (OrderID) REFERENCES Orders(OrderID)
+    CONSTRAINT FK_OrdersOrderItem FOREIGN KEY (OrderID) REFERENCES Orders(OrderID)
 );
 
 
